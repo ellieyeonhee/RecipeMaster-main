@@ -1,0 +1,169 @@
+[
+    {
+        "name": "Seafood Pasta",
+        "time": "40mins",
+        "serving": "2 people",
+        "category": "TBA",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        
+        "equipment": "TBA",
+        "ingredients": "180g Spaghetti pasta, 3Tbs Olive oil, 300g Marinara mix, 2 Cloves garlic, 1/2 Onion, 2 Cups tomato passata, 2Tbs Chopped parsley.",
+        "instructions": "TBA",
+        "imageName": "pasta"
+    },
+    {
+        "name": "Salmon",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "salmon"
+    },
+    
+    {
+        "name": "Classic Quiche",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "quiche"
+    },
+    
+    {
+        "name": "Fried Rice",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "friedRice"
+    },
+    
+    {
+        "name": "Prawn Salad",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "prawnSalad"
+    },
+    {
+        "name": "Pumpkin Soup",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "pumpkinSoup"
+    },
+    
+    
+    {
+        "name": "Enoki Mushroom Tomato Pasta",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA,",
+        "imageName": "mushroomPasta"
+    },
+    {
+        "name": "Salmon Curry",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA,",
+        "imageName": "fishCurry"
+    },
+    
+    {
+        "name": "Green Salad",
+        "time": "15mins",
+        "serving": "2 people",
+        "category": "vegetarian",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "greenSalad"
+    },
+    
+    {
+        "name": "Pizza",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "pizza"
+    },
+    {
+        "name": "Simple Noodles",
+        "time": "15mins",
+        "serving": "2 people",
+        "category": "TBA",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "noodles"
+    },
+    
+    {
+        "name": "Chicken Salad",
+        "time": "20mins",
+        "serving": "4 people",
+        "category": "TBA",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": true,
+        "equipment": "TBA",
+        "ingredients": "TBA",
+        "instructions": "TBA",
+        "imageName": "chickenSalad"
+    },
+    
+]
+
